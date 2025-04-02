@@ -16,7 +16,7 @@ const HeroBanner = () => {
                   Where innovation meets progress.
                 </p>
                 <a
-                  href="/portfolio"
+                  href="https://indtech-portfolio-page.vercel.app/"
                   className="btn-white mt-2 mt-xl-3 fw-bold me-3"
                 >
                   <span>Talk about Your Project</span>
